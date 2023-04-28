@@ -143,10 +143,3 @@ Are you looking for more components? Please check our Premium Version of Materia
 
 If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
 
-
-
-## Licensing
-
-- Copyright 2023 Creative Tim (https://www.creative-tim.com/)
-
-- Licensed under MIT (https://github.com/creativetimofficial/material-dashboard/blob/master/LICENSE.md)
