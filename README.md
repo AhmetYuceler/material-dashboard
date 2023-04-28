@@ -115,31 +115,3 @@ At present, we officially aim to support the last two versions of the following 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
 
-
-## Resources
-- Demo: <https://demos.creative-tim.com/material-dashboard/pages/dashboard.html>
-- Download Page: <https://www.creative-tim.com/product/material-dashboard?ref=readme-md2>
-- Documentation: <https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard?ref=readme-md2>
-- License Agreement: <https://www.creative-tim.com/license?ref=readme-md2>
-- PRO Version: <https://www.creative-tim.com/product/material-dashboard-pro?ref=readme-md2>
-- Support: <https://www.creative-tim.com/contact-us?ref=readme-md2>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard/issues)
-- [Material Kit](https://www.creative-tim.com/product/material-kit?ref=github-md) - For Front End Development
-- [Nepcha Analytics](https://nepcha.com?ref=readme-md2) - Analytics tool for your website
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Material Dashboard. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Material Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Upgrade to Premium version
-
-Are you looking for more components? Please check our Premium Version of Material Dashboard [here](https://www.creative-tim.com/product/material-dashboard-pro/)
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
-
